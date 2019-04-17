@@ -1,0 +1,10 @@
+/** Your theme modifications here **/
+.star {
+  color: red;
+  display: none;
+}
+
+table {
+  display: block;
+  overflow: scroll;
+}
